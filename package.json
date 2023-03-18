@@ -1,0 +1,24 @@
+{
+  "name": "simple-connecting-api-nodejs-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brinfoleo/simple-Connecting-API-nodejs-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brinfoleo/simple-Connecting-API-nodejs-study/issues"
+  },
+  "homepage": "https://github.com/brinfoleo/simple-Connecting-API-nodejs-study#readme",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "node-fetch": "^2.6.9"
+  }
+}
